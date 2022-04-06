@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='pyperclip-termux',
-    version='0.0.1',
+    version='0.0.2',
     description='pyperclip patch for termux-api',
     long_description=open('README.md').read().strip(),
     author='BlackCatDevel0per',
